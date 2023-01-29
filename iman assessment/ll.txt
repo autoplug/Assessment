@@ -1,0 +1,35 @@
+We worked on developing an application for clinics. this application store all information of patients and their needed medicines in the database, and provided a possibility for clients too reserve the closest available appointment.    This web application had many functionality for clinics but i was involved with two of them.
+
+First and foremost, we made it posible for all the statistical information of the clinic to be available to the clinic manager.However the most important one was a statistical model for the web application that could predict the fluctuation of patience visit, in addition to the demand of products based on weekly time-period.======
+
+so the management could handle their previous issues on loosing profit owing to the shortage and customer discontent.
+Moreover, it became possible for the clinics to offer the new products to the patience based on their profile, So both the clients and the company could benefit from this new facility.======= 
+
+secondly, we added a barcode reader to add product to the database, so clinics were able to track their inventory for each their curtail product and make proper decision on when and how much they have to order based on the demand.
+
+================
+
+
+I am familiar with SOLID principles and I can provide examples and explanations on how they can be applied to a project. For example, when designing a class, you can follow the Single Responsibility Principle by keeping the responsibilities of the class focused and well defined. You can apply the Open-Closed Principle by creating interfaces and classes that are open for extension but closed for modification. By following SOLID principles, the project is more likely to be successful, as the code will be more maintainable and easier to understand, also it will be more scalable, which makes it easy to add new features or make changes to the codebase without introducing bugs or causing other issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
